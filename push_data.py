@@ -50,7 +50,7 @@ class  NetworkDataExtract():
 
 if __name__ == "__main__":
     try:
-        FILE_PATH = "Network_Data\phisingData.csv"
+        FILE_PATH = "Network_Data\PhishingData.csv"
         DATABASE = "NetworkSecurity"
         COLLECTION = "PhishingData"
         networkobj = NetworkDataExtract()
