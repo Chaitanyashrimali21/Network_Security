@@ -9,5 +9,6 @@ PyYAML==6.0.1
 dill==0.3.7
 mlflow
 dagshub
-
+fastapi
+uvicorn
 #-e . 
